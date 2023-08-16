@@ -19,7 +19,6 @@
 
 <img src="./svgs/javascript.svg" align="left" width="32" height="32" />
 <img src="./svgs/typescript-icon.svg" align="left" width="32" height="32" />
-
 <br />
 
 ---
@@ -27,13 +26,12 @@
 ### Libraries and Frameworks:
 
 <img align="left" width="32" height="32" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
-<img src="./svgs/react.svg"  />
+<img src="./svgs/react.svg"  align="left" width="32" height="32" />
 <img src="./svgs/angular-icon.svg" align="left" width="32" height="32" />
 <img src="./svgs/redux.svg" align="left" width="32" height="32" />
 <img src="./svgs/tailwindcss-icon.svg" align="left" width="32" height="32" />
 <img src="./svgs/bootstrap.svg" align="left" width="32" height="32" />
 <img src="./svgs/material-ui.svg" width="32" height="32" />
-<img src="./svgs/ant-design.svg" align="left" width="32" height="32" />
 <img src="./svgs/jwt-icon.svg" align="left" width="32" height="32" />
 <br />
 
