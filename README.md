@@ -1,7 +1,7 @@
 <h3>🌟ABOUT MYSELF 🌟</h3>
 -   👋 Hi, I’m @tunakite03 <br>
 -   👀 I’m interested in MERN Stack and PHP <br> 
--   🌱 I’m currently learning Java, Java Spring Boot <br>
+-   🌱 I’m currently learning Java, Java Spring Boot and NestJS. <br>
 -   👀 I’m interested in learning new things, reading, watching and other sports •~• <br>
 
 ---
